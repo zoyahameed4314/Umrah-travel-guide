@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet_template type="text/xsl" href="https://zoyahameed4314.github.io/Umrah-travel-guide/sitemap.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zoyahameed4314.github.io/Umrah-travel-guide/index.html</loc>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
-  <url>
+  </urlset>
     <loc>https://zoyahameed4314.github.io/Umrah-travel-guide/blog.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
